@@ -1,4 +1,4 @@
-<img align="right" width="200" height="200" src="https://uploads.spiritfanfiction.com/historias/capitulos/201912/black-clover--asta-o-mago-negro-18061975-111220190315.jpg"> 
+<img align="right" width="150" height="150" src="https://uploads.spiritfanfiction.com/historias/capitulos/201912/black-clover--asta-o-mago-negro-18061975-111220190315.jpg"> 
 
 <h1> Salve, sou o Wesley 👋 </h1>
 <h2> Eu sou um Dev FullStack Jr </h2>
