@@ -1,6 +1,6 @@
 <img align="right" width="200" height="200" src="https://uploads.spiritfanfiction.com/historias/capitulos/201912/black-clover--asta-o-mago-negro-18061975-111220190315.jpg"> 
 
-<h1> Salve, sou o Wesley 👋 </h1>
+<h1> Olá, Mundo! Sou o Wesley 👋 </h1>
 <h2> Eu sou um Dev FullStack Jr </h2>
 <p> Tenho 25 anos e sou muito apaixonado pela tecnologia e tudo que ela representa. Sempre tive contato com ela e aprendi diversas de suas vertentes, desde edição de vídeos, photoshop e até mesmo com desenvolvimento de softwares. Quando criança sempre tive muito interesse na área tecnologia, no meio desse processo tive uma grande realização de cria minha primeira empresa trabalhando como designer criando morkup e estampa por falta de conhecimento na área de gestão financeira não conseguir manter mas foi o inicio de um grande sonho que eu tenho de ser reconhecido pelo meus feitos, depois de um tempo montei meu segundo empreendimento já na área de tecnologia vendendo acessórios e eletrônicos em geral, eu sou amante de jogos e por isso decidi unir o útil ao agradável e alavancar minha carreira profissional com o que faço de melhor. estou em transição de carreira profissional. </p>
 <div> </div>
